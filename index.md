@@ -17,6 +17,8 @@ The pipeline automates data ingestion, transformation, and visualization, provid
 
 ![Power BI Dashboard](screenshots/dashboard_example.png)
 
+> ⚠ Make sure your screenshot file is named exactly `dashboard_example.png` and uploaded in the `/screenshots` folder. You can add more screenshots using the same pattern.
+
 ---
 
 ## 🚀 Highlights
