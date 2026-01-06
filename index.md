@@ -8,7 +8,10 @@ The pipeline automates data ingestion, transformation, and visualization, provid
 ## 📂 Project Files
 
 - [Project Report (PDF)](report.pdf) – Detailed report with methodology, architecture, and results  
-- [Notebooks](notebooks/) – PySpark notebooks for data transformation and pipeline processing  
+- [Notebooks] – PySpark notebooks for data transformation and pipeline processing
+  - [Landing to Bronze notebook](notebooks/landing_to_bronze.ipynb)
+  - [Bronze to Silver notebook](notebooks/bronze_to_silver.ipynb)
+  - [Silver to Gold notebook](notebooks/silver_to_gold.ipynb)
 - [Screenshots](screenshots/) – Power BI dashboards and intermediate data snapshots  
 
 ---
