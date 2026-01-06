@@ -7,7 +7,7 @@ The pipeline automates data ingestion, transformation, and visualization, provid
 
 ## 📂 Project Files
 
-- [Project Report (PDF)](report.pdf) – Detailed report with methodology, architecture, and results  
+- [Project Report (PDF)](https://github.com/SupriyaGiri14/data-engineering-project/blob/main/End-to-End%20Data%20Engineering%20Project%20with%20Microsoft%20Fabric.pdf) – Detailed report with methodology, architecture, and results  
 - Notebooks – PySpark notebooks for data transformation and pipeline processing
   - [Raw to Landing](https://github.com/SupriyaGiri14/data-engineering-project/blob/main/notebooks/Raw%20to%20Landing.ipynb)
   - [Landing to Bronze notebook](https://github.com/SupriyaGiri14/data-engineering-project/blob/main/notebooks/Landing_to_Bronzetable.ipynb)
