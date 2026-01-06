@@ -19,7 +19,7 @@ The pipeline automates data ingestion, transformation, and visualization, provid
 
 ## 🖼 Pipeline Image
 
-(screenshots/dashboard_example.png)
+https://github.com/SupriyaGiri14/data-engineering-project/blob/main/screenshots/pipeline_run.png
 
 
 ---
