@@ -1,4 +1,4 @@
-<div style="background-color:#f9f2f2;">
+
 <h1 style="color:#c62828;">
 End-to-End Data Engineering Project with Microsoft Fabric
 </h1>
@@ -161,5 +161,5 @@ Gold Tables (Fact & Dimensions)
 ---
 
 Thank you for visiting!  
-</div>
+
 This project demonstrates how modern data engineering techniques can deliver **scalable, reliable, and actionable insights**.
