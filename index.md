@@ -48,10 +48,9 @@ This project implements a fully automated end-to-end data pipeline in **Microsof
 - Notebook processes each file and writes data to the Landing folder  
 
 **Parameters Passed to Notebook**
-| Parameter | Description |
-|--------|------------|
-| `p_file_name` | Name of the incoming raw file |
-| `p_processing_date` | Current processing date |
+
+| `p_file_name` - Name of the incoming raw file |
+| `p_processing_date` - Current processing date |
 
 **Outcome**
 - Latest monthly file is moved from Raw to Landing  
