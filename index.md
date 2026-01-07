@@ -1,4 +1,7 @@
-# End-to-End Data Engineering Project with Microsoft Fabric
+<div style="background-color:#f9f2f2; padding:24px; border-radius:12px;">
+<h1 style="color:#c62828;">
+End-to-End Data Engineering Project with Microsoft Fabric
+</h1>
 
 This project demonstrates a **fully functional end-to-end data engineering and analytics solution** using **Microsoft Fabric**, leveraging a **Medallion Architecture (Bronze → Silver → Gold)**.  
 The pipeline automates data ingestion, transformation, and visualization, providing **business-ready insights**.
@@ -158,4 +161,5 @@ Gold Tables (Fact & Dimensions)
 ---
 
 Thank you for visiting!  
+</div>
 This project demonstrates how modern data engineering techniques can deliver **scalable, reliable, and actionable insights**.
