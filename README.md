@@ -9,7 +9,7 @@ gold in a medallion architecture), implement scalable data pipelines using Fabri
 analytics.
 
 #  Tools Used:
-Microsoft Fabric platform (Lakehouse, Data Pipelines, Notebooks)
-PySpark for data transformation and enrichment
-Power BI analytics
-Medallion architecture for data refinement
+* Microsoft Fabric platform (Lakehouse, Data Pipelines, Notebooks)
+* PySpark for data transformation and enrichment
+* Power BI analytics
+* Medallion architecture for data refinement
