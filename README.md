@@ -7,3 +7,9 @@ systems, process and refine it through multiple transformation layers (such as b
 gold in a medallion architecture), implement scalable data pipelines using Fabric components 
 (e.g., pipelines, notebooks), and finally deliver actionable insights through reporting and 
 analytics.
+
+#  Tools Used:
+Microsoft Fabric platform (Lakehouse, Data Pipelines, Notebooks)
+PySpark for data transformation and enrichment
+Power BI analytics
+Medallion architecture for data refinement
